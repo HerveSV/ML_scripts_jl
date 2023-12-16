@@ -1,0 +1,14 @@
+name = "ML"
+uuid = "bbbbd4c9-94f9-4380-acc4-41cb1d344811"
+authors = ["HerveSV <herve.schmitveiler@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+ScikitLearn = "3646fa90-6ef7-5e7e-9f22-8aca16db6324"
